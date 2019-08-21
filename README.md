@@ -12,3 +12,15 @@ application will support the following 5 commands:
 5. List of courses by percentage of A letter grades
 
 
+
+Here are some screenshots of the program:
+![GitHub Logo](1.png)
+
+
+![GitHub Logo](2.png)
+
+
+![GitHub Logo](3.png)
+
+
+![GitHub Logo](4.png)
